@@ -12,9 +12,11 @@
 }
 
 .Title h3 {
-    font-size: 2em;
+    font-size: 1.5em;
+    font-weight: lighter;
 }
 
 .Title h1 {
-    font-size: 5em;
+    font-size: 6em;
+    font-weight: 200;
 }

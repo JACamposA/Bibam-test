@@ -1,0 +1,35 @@
+.FlightSearch {
+    display: grid;
+    height: 3em;
+    grid-template-columns: repeat(5, 1fr);
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+}
+
+.div1 { 
+    grid-area: 1 / 1 / 2 / 2; 
+    border: red 1px solid;
+}
+
+.div2 { 
+    grid-area: 1 / 2 / 2 / 3;
+    border: red 1px solid;
+}
+
+.div3 { 
+    grid-area: 1 / 3 / 2 / 4; 
+    border: red 1px solid;
+}
+
+.div4 { 
+    grid-area: 1 / 4 / 2 / 5;
+    border: red 1px solid;
+}
+
+.div5 { 
+    grid-area: 1 / 5 / 2 / 6; 
+    border: red 1px solid;
+}
+
+    
