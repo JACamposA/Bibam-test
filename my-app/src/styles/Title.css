@@ -1,0 +1,20 @@
+.Title {
+    color: white;
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 100%;
+    text-align: center;
+    min-height: 10em;
+    align-items: center;
+}
+
+.Title h3 {
+    font-size: 2em;
+}
+
+.Title h1 {
+    font-size: 5em;
+}

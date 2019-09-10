@@ -1,4 +1,5 @@
 .Section1{
-    background:url(../NYCpic) no-repeat fixed center;
+    background:url(./NYCpic.jpg) no-repeat center ;
     height: 50vh;
+    width: 100%;
 }
