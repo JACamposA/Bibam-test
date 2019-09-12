@@ -5,7 +5,6 @@ import TravelType from './TravelType';
 import '../styles/TravelType.css';
 import FlightSearch from './FlightSearch';
 import '../styles/FlightSearch.css';
-
 function SectionOne() {
     return (
             <section className="Section1">

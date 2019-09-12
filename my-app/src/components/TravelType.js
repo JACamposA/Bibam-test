@@ -2,9 +2,9 @@ import React from "react"
 function TravelType() {
     return (
                 <div className="TravelType">
-                    <div>IDA Y VUELTA</div>
-                    <div>SOLO IDA</div>
-                    <div>MULTIDESTINO</div>
+                    <a><div>IDA Y VUELTA</div></a>
+                    <a><div>SOLO IDA</div></a>
+                    <a><div>MULTIDESTINO</div></a>
                 </div>
     )
 }
