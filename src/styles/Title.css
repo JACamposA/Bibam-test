@@ -23,3 +23,17 @@
     font-weight: 200;
     line-height: 75px;
 }
+
+@media only screen and (max-width: 435px){ 
+.Title h1 {
+    font-size: calc(2em + 1.5vmin);
+    font-weight: 200;
+    line-height: 45px;
+    }
+.Title h3 {
+    font-size: calc(0.55em + 1vmin);
+    font-weight: 0;
+    bottom:20px;
+    line-height: 5px;
+    }
+}

@@ -2,8 +2,16 @@
     background: url(../media/graph.png) no-repeat;
     background-size: contain;
     position: relative;
-    max-width: 75vw;
+    max-width: 90vw;
     margin: auto;
     top: 10vh;
     height: 80%;
+}
+@media only screen and (min-width: 1150px){ 
+.graph{
+        background: url(../media/graph.png) no-repeat;
+        background-size: contain;
+        position: relative;
+        max-width: 70vw;
+    }
 }

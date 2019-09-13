@@ -2,7 +2,6 @@
     font-size: calc(0.55em + 0.75vmin);
     font-weight: 700;
     color: white;
-    background: rgba(0,0,0, .1);
     position: relative;
     display: flex;
     align-items: center;
