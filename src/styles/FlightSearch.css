@@ -7,7 +7,7 @@
     grid-row-gap: 0px;
     top:20px;
     max-width: 70vw;
-    font-size: 1em;
+    font-size: calc(0.3em + 1vmin);
     font-weight: 700;
     color: white;
     background: rgba(0,0,0, .1);

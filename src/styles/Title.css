@@ -5,20 +5,21 @@
     align-items: center;
     justify-content: center;
     flex-direction: column;
-    width: 100%;
     text-align: center;
     height: 25vh;
+    width: 60%;
+    margin: auto;
 }
 
 .Title h3 {
-    font-size: 1.5em;
-    font-weight: lighter;
+    font-size: calc(0.75em + 1vmin);
+    font-weight: 0;
     bottom:20px;
-    line-height: 30px;
+    line-height: 10px;
 }
 
 .Title h1 {
-    font-size: 6em;
+    font-size: calc(3em + 1.5vmin);
     font-weight: 200;
     line-height: 75px;
 }

@@ -1,0 +1,9 @@
+.graph{
+    background: url(../media/graph.png) no-repeat;
+    background-size: contain;
+    position: relative;
+    max-width: 75vw;
+    margin: auto;
+    top: 10vh;
+    height: 80%;
+}

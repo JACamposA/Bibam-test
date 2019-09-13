@@ -1,4 +1,6 @@
 .Section2{
     background: rgb(207, 203, 198);
     height: 50vh;
+    width: 100%;
+    align-items: center;
 }
