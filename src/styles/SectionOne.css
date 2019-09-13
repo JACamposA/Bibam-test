@@ -2,4 +2,5 @@
     background:url(../media/NYCpic.jpg) no-repeat center ;
     height: 50vh;
     width: 100%;
+    align-items: center;
 }

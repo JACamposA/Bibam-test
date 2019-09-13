@@ -31,7 +31,7 @@ showDropdownMenu(event) {
   render() {
     return (
         <div  className="dropdown" >
-         <div className="button" onClick={this.showDropdownMenu}> Origen </div>
+         <div className="button button-origen" onClick={this.showDropdownMenu}> Origen </div>
 
           { this.state.displayMenu ? (
           <ul>

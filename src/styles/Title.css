@@ -7,16 +7,18 @@
     flex-direction: column;
     width: 100%;
     text-align: center;
-    min-height: 10em;
-    align-items: center;
+    height: 25vh;
 }
 
 .Title h3 {
     font-size: 1.5em;
     font-weight: lighter;
+    bottom:20px;
+    line-height: 30px;
 }
 
 .Title h1 {
     font-size: 6em;
     font-weight: 200;
+    line-height: 75px;
 }

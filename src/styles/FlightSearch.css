@@ -1,34 +1,26 @@
 .FlightSearch {
     position: relative;
-    top: 20%;
-    width: 70%;
-    margin: auto;
     display: grid;
-    height: 3em;
-    grid-template-columns: repeat(5, 1fr);
+    grid-template-columns: repeat(2, 2fr) repeat(2, 3fr) 1fr;
     grid-template-rows: 1fr;
     grid-column-gap: 0px;
     grid-row-gap: 0px;
-}
+    top:20px;
+    max-width: 70vw;
+    font-size: 1em;
+    font-weight: 700;
+    color: white;
+    background: rgba(0,0,0, .1);
+    position: relative;
+    justify-content: center;
+    margin: auto;
 
-.div1 { 
-    grid-area: 1 / 1 / 2 / 2; 
 }
+.div1 { grid-area: 1 / 1 / 2 / 2; }
+.div2 { grid-area: 1 / 2 / 2 / 3; }
+.div3 { grid-area: 1 / 3 / 2 / 4; }
+.div4 { grid-area: 1 / 4 / 2 / 5; }
+.div5 { grid-area: 1 / 5 / 2 / 6; }
 
-.div2 { 
-    grid-area: 1 / 2 / 2 / 3;
-}
-
-.div3 { 
-    grid-area: 1 / 3 / 2 / 4; 
-}
-
-.div4 { 
-    grid-area: 1 / 4 / 2 / 5;
-}
-
-.div5 { 
-    grid-area: 1 / 5 / 2 / 6; 
-}
 
     
